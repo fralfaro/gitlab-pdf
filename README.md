@@ -1,6 +1,6 @@
 # Gitlab-PDF
 
-<img src="img/logo.png" alt="" align="center" width="200"/>
+<img src="img/logo.png" alt="" align="center" width="120"/>
 
 
 Generación de Artefactos PDF con GitLab CI/CD.
