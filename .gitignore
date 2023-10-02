@@ -1,0 +1,8 @@
+.idea/
+dist/
+**.egg-info
+**.aux
+**.log
+**.pdf
+**.gz
+**.out
