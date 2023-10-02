@@ -5,7 +5,7 @@
 
 Generación de Artefactos PDF con GitLab CI/CD.
 
-> **Nota**: Para obtener más detalles sobre GitLab CI/CD, consulta el siguiente artículo [enlace]().
+> **Nota**: Para obtener más detalles sobre GitLab CI/CD, consulta el siguiente artículo [enlace](https://fralfaro.github.io/DS-Blog/blog/posts/2023/gitlab_pdf/).
 
 ## ¿Por qué utilizar GitLab CI/CD?
 El propósito principal es versionar todos los avances de los archivos LaTeX (`.tex`)
